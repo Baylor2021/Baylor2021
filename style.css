@@ -1,0 +1,19 @@
+body{
+font-family: Calibri;
+font-variant: small-caps;
+font-size: 30px;
+text-align: center;
+}
+#heading1{
+font-variant: small-caps;
+font-size: 48px;
+font-family: Calibri;
+text-align: center;
+color: white;
+background-color: black;
+
+}
+img{
+width: 400px;
+
+}
